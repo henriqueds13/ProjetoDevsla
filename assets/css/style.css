@@ -59,7 +59,7 @@ header .rightside li{
 header .rightside a{
 	text-decoration: none;
 	color: var(--header-color);
-	text-transformation: uppercase;
+	text-transform: uppercase;
 }
 header .menu--icon{
 	width: 18px;
